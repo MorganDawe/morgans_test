@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Morgans Test feature.
+ */
+
+include_once 'morgans_test.features.inc';
